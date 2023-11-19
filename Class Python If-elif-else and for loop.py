@@ -1,41 +1,45 @@
 #one
-#out of topic
-"""num1 = input("Enter number 1:")
+#i can use int(num) to get integer and reduce lines
+"""
+num1 = input("Enter number 1:")
 num2 = input("Enter number 2:")
 
 num1 = int(num1)
 num2 = int(num2)
 
-print(num1+num2)"""
+print(num1+num2
+
+"""
 
 #two
-"""num1 = input("Enter number 1:")
-num2 = input("Enter number 2:")
 
-num1 = int(num1)
-num2 = int(num2)
+'''
+num1 = int(input("Enter number 1:"))
+num2 = int(input("Enter number 2:"))
 
 if num1> num2:
     print("num1 is greater than num2")
 elif num1< num2:
     print("num1 is smaller than num2")
 else:
-    print("num1 is equal to num2")"""
+    print("num1 is equal to num2")
+    '''
+
 
 #three
 #think different
-"""num1 = input("Enter number 1:")
-num2 = input("Enter number 2:")
+"""
+num1 = int(input("Enter number 1:"))
+num2 = int(input("Enter number 2:"))
 
-num1 = int(num1)
-num2 = int(num2)
 
 if num1> num2:
     print(f"{num1} is greater than {num2}")
 elif num1< num2:
     print(f"{num1} is smaller than {num2}")
 else:
-    print(f"{num1} is equal to {num2}")"""
+    print(f"{num1} is equal to {num2}")
+    """
 
 #four
 #Now let, num2 = 0 and see the funny mistake :p
@@ -82,6 +86,8 @@ print("3")"""
 
 #eight
 #For loop
+#in python, we cannot check the condition using = , instead, we hafta
+#check condition with ==
 #can 0 be an even number?
 """Zero is considered an even number in both mathematics and 
  using i % 2 == 0 to identify even numbers correctly includes zero."""
@@ -90,9 +96,12 @@ print("3")"""
     if i%2==0:
         print(f"{i} is even")"""
 #nine
+#TASK
 #odd n even
+'''
 for i in range(20):
     if i%2==0:
         print(f"{i} is even")
     else:
         print (f"{i} is odd")
+'''

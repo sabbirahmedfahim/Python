@@ -31,6 +31,8 @@ if(a==3 and b==6 and \
 
 #four
 #python keyword
+#some word have special meaning in python. They are called keyword
+
 """
 print(keyword.kwlist)
 """

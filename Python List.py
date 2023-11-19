@@ -1,3 +1,25 @@
+#break- continue
+#first ten minutes is destroys confusion about identation
+#One
+'''
+i = 1
+for i in range(1, 11, 1):
+    if(i>7):
+        break
+    print(i)
+    '''
+
+#two
+#tricky
+i = 1
+for i in range(1, 11, 1):
+    print(i)
+    if(i>7):
+        break
+
+
+
+
 #The basics of  lists is easy to understand.
 #One
 #adding elements to the list

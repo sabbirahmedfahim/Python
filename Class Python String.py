@@ -1,46 +1,60 @@
 #one
-"""In Python, a string is a data type used to represent text
-or a sequence of characters. Strings are enclosed in either
-single quotes , double quotes  or triple quotes )
-and can include letters, numbers, symbols,
-and spaces. They are widely used for text processing
-and manipulation in Python programs."""
+"""A String is a data  structure in Python that represents
+a sequence of characters.
+It is a immutable data type.
+that means if we sum 8 and 8 as string the output will be
+ 88 rather than 16 because string in immutable
+"""
 
 #two
-"""msg = "It's a string"""
-#here double-quotation  used because you know what :)
+"""
+msg = "It's a string
+"""
+'''here double-quotation  used because in our qoute we used  a 
+single quatation and things could be messed up if we do not use
+double quatation instead'''
 
 #three
-"""msg = 'some examples : "ex1", "ex2" etc'"""
+"""
+msg = 'some examples : "ex1", "ex2" etc'
+"""
 #note that under the quotation the whole line is called as string
 
 #four
-"""msg = 'It\'s a string'"""
-#using backslash
+"""
+msg = 'It\'s a string'
+"""
+'''using backslash we can cope with same single quotation used inside
+and outside of parenthesis'''
 
 #five
 #row string
-#mr r
-"""msg = r'c:\python\bin'
-print(msg)"""
+"""
+msg = r'c:\python\bin'
+print(msg)
+"""
 
 #six
-"""msg = "Hello \
+"""
+msg = "Hello \
 World"
-print(msg)"""
+print(msg)
+"""
 
 #seven
 #creating multiple strings using triple
 #single quotation
-"""msg = '''
+"""
+msg = '''
         Hello
         Mr
         Code'''
-print(msg)"""
+print(msg)
+"""
 
 #eight
 #format string
-#run the code and search for mistakes hahaha
+#run the code and search for mistakes :D
 """name = "john"
 msg = "hello {name}"
 print(msg)"""
@@ -64,15 +78,20 @@ print(msg)"""
 print(msg)"""
 
 #twelve
+#accessing string elements
 #think :D
-"""str = "Python String"
-print(str[0])
-print(str[2])
-print(str[-2])"""
+"""
+str = "Python String"
+print(str[0]) #P
+print(str[2]) #t
+print(str[-2]) #n
+"""
 
 #getting the length of a string
-"""str = "Hello"
-print(len(str))"""
+"""
+str = "Hello"
+print(len(str))
+"""
 
 #getting the length of a string
 #even it will count the space inside the braket

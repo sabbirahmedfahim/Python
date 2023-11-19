@@ -4,7 +4,7 @@ _hello = 7
 hello = 8
 _he8_he = 10
 """
-# but '9he_ = 10' idetifiers cannot start with  numbers
+# but '9he_ = 10' identifiers cannot start with  numbers
 """
 hello=5
 Hello=5
