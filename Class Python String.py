@@ -123,5 +123,5 @@ str[0] = 'J'"""
 #remember i used third braket after str 107th line
 str = "Python"
 #str[0] = 'J'
-str1 = 'J' + str[2:6]
+str1 = 'J' + str[1:6]
 print(str1)

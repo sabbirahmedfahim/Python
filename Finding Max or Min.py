@@ -1,5 +1,5 @@
 #Finging maximum number
-'''list = [5, 6, 10, 8, -9]
+list = [5, 6, 10, 8, -9]
 n = len(list)
 maxx = list[0]
 
@@ -7,10 +7,10 @@ for i in range(0, n, 1):
     if (maxx<list[i]):
         maxx = list[i]
 
-print(f"maxx number is {maxx}")'''
+print(f"maxx number is {maxx}")
 
 #Finging minimum number
-'''list = [5, 6, 10, 8, -9]
+list = [5, 6, 10, 8, -9]
 n = len(list)
 minn = list[0]
 
@@ -18,7 +18,7 @@ for i in range(0, n, 1):
     if (minn>list[i]):
         minn = list[i]
 
-print(f"minn number is {minn}")'''
+print(f"minn number is {minn}")
 
 #TASK1
 #function

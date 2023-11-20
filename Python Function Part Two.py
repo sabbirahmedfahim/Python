@@ -1,6 +1,6 @@
 #finding the length of string
-'''st = "Hello"
-print(len(st))'''
+st = "Hello"
+print(len(st))
 
 '''
 Understanding null character

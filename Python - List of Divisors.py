@@ -1,19 +1,19 @@
 #finding divisors
-'''n = int(input("Enter number = "))
+n = int(input("Enter number = "))
 
 for i in range(1, n+1, 1):
     if(n%i==0):
-        print(i)'''
+        print(i)
 import math
 
 #divisors in list
-'''divisors = []
+divisors = []
 n = int(input("Enter number = "))
 
 for i in range(1, n+1, 1):
     if(n%i==0):
         divisors.append(i)
-print(f"divisors = {divisors}")'''
+print(f"divisors = {divisors}")
 
 #sqrt
 divisors = []

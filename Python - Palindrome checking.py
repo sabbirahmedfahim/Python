@@ -6,14 +6,14 @@ number, then the number is a palindrome'''
 # noon
 
 #One
-'''st = input("st = ")
+st = input("st = ")
 n = len(st)
 
 rev_st = st[::-1]
 if(st==rev_st):
     print("Palindrome")
 else:
-    print("Not Palindrome")'''
+    print("Not Palindrome")
 
 #Two
 st = input("st = ")
