@@ -78,7 +78,7 @@ for i in range(1,8,1):
 
 
 #ten
-#what if we don't maintain identation
+#what if we don't maintain identation(please do not  confuse -_-, ig i need a better word)
 #it prints till 21 because the break statement is after the condition
 
 sum = 0

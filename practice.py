@@ -61,6 +61,11 @@ result = list(map(lambda x: x+5, nums)'''
 
 #Seven
 #filter
-nums = [11, 23, 35, 24, 46, 45]
+'''nums = [11, 23, 35, 24, 46, 45]
 hmmm = list(filter(lambda x: x%2==0, nums))
-print(hmmm)
+print(hmmm)'''
+
+A = int(input())
+for i in range(1, A):
+    if(A%i==0):
+        print(i)

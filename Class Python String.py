@@ -44,13 +44,12 @@ print(msg)
 #seven
 #creating multiple strings using triple
 #single quotation
-"""
+
 msg = '''
         Hello
         Mr
         Code'''
 print(msg)
-"""
 
 #eight
 #format string
@@ -94,7 +93,7 @@ print(len(str))
 """
 
 #getting the length of a string
-#even it will count the space inside the braket
+#even it will count the space inside the bracket
 """str = "Hello "
 print(len(str))"""
 
@@ -121,7 +120,7 @@ str[0] = 'J'"""
 
 #instead, operations on strings create new string objects.
 #remember i used third braket after str 107th line
-str = "Python"
-#str[0] = 'J'
-str1 = 'J' + str[1:6]
-print(str1)
+# str = "Python"
+# #str[0] = 'J'
+# str1 = 'J' + str[1:6]
+# print(str1)
