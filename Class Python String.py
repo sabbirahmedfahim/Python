@@ -124,3 +124,8 @@ str[0] = 'J'"""
 # #str[0] = 'J'
 # str1 = 'J' + str[1:6]
 # print(str1)
+
+
+#toThePower
+# a = 3
+# print(a**4)
