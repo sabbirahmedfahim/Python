@@ -428,3 +428,30 @@ import keyword
 #     if (maxx<list[i]):
 #         maxx = list[i]
 # print(f"maxima is {maxx}")
+
+
+
+# n = int(input("number of students: "))
+# count = 0
+# flag = 0
+# for i in range(0, n):
+#     marks = int(input("Total marks: "))
+#     if marks>79 and marks<101:
+#         count = count + 1
+#         flag = 1
+#     elif flag==0:
+#         count = 0
+# print(f"{count} students got A+ in ICT")
+
+# st = input()
+# rev_st = st[::-1]
+# print(rev_st)
+
+# 1 = 1
+# 2 = 3
+# 3 = 6
+# n = int(input())
+# sum = 0
+# for i in range(0, n+1):
+#         sum = sum + i
+# print(sum)
