@@ -24,7 +24,7 @@ for i in range(0, n):
     print(dept, sem, '20'+id[0:2])
 
 # Azwad's Code
-#
+##
 
 
 
