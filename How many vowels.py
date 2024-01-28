@@ -8,7 +8,7 @@
 # print(count)
 
 
-x = input()
+x = input("Enter your name: ")
 n = len(x)
 count = 0
 for i in range(0, n, 1):
@@ -16,4 +16,4 @@ for i in range(0, n, 1):
             or x[i]=='I' or x[i]=='i' or x[i]=='O' or x[i]=='o' \
             or x[i]=='U' or x[i]=='u':
         count = count + 1
-print(count)
+print(f"There are {count} vowels in your name!")

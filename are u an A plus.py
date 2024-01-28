@@ -15,3 +15,15 @@ for i in range(0, n):
             count = count + 1
 print(count)
 
+# bangla = int(input("Bangla: "))
+# if bangla>=80 and bangla<=100:
+#     print("banglay A+")
+# elif bangla>=70 and bangla<=79:
+#     print("banglay A")
+# english = int(input("English: "))
+# if english>=80 and english<=100:
+#     print("english A+")
+# elif english>=70 and english<=79:
+#     print("English A")
+
+
